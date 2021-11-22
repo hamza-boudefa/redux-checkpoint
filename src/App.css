@@ -1,0 +1,72 @@
+
+.App {
+  text-align: center;
+
+ 
+  
+}
+.form {
+  width: 60%;
+  margin: 120px auto;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.mb-3{
+  width: 70%;
+  margin-right: 10px;
+}
+.todo{
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: auto;
+}
+.modal-form{
+  padding: 20px 30px;
+}
+.group{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 80%;
+}
+.todoText{
+  border: black solid;
+width: 600px;
+height:50px;
+text-align: start;
+display: inline-block;
+border: 3px solid #333333;
+font-size: 2.5rem;
+text-transform:capitalize;
+letter-spacing: 0.1ch;
+background: #ffffff;
+position: relative;
+}
+
+body {
+  padding: 2rem;
+  font-family: 'Just Another Hand', cursive;
+  background: #f3f3f3;
+}
+
+.title {
+  display: inline-block;
+  border: 3px solid #333333;
+  font-size: 2.5rem;
+  border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
+  text-transform: uppercase;
+  letter-spacing: 0.3ch;
+  background: #ffffff;
+  position: relative;
+  
+  
+}
+.todo{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  
+}
